@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a573d2f5-37e4-4508-9ac4-852018870b62" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Contact.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contact.xcworkspace/xcuserdata/Alo.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.xcworkspace/xcuserdata/Alo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contact.xcworkspace/xcuserdata/Alo.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.xcworkspace/xcuserdata/Alo.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contact/Controller/YourCircle/ATCCarouselCollectionViewCell.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Contact/Controller/YourCircle/ATCCarouselCollectionViewCell.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contact/Controller/YourCircle/ATCChatThreadsViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Contact/Controller/YourCircle/ATCChatThreadsViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contact/Controller/YourCircle/ATCDatingChatHomeViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Contact/Controller/YourCircle/ChatRooms.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contact/Controller/YourCircle/ATCViewControllerContainerRowAdapter.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Contact/Controller/YourCircle/ATCViewControllerContainerRowAdapter.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contact/Controller/YourCircle/YourCircleViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Contact/Controller/YourCircle/YourCircleViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contact/DependencyContainers/LocalhostAppDependencyContainer.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Contact/DependencyContainers/LocalhostAppDependencyContainer.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contact/Repositories/ATCGenericCollectionViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Contact/Repositories/GenericCollectionViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/Alo.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/Alo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos_00008030-001148C00298802E" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1QWKG0bl9RUfbOH7DmpdiqOPuEB" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Contact.xcworkspace" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a573d2f5-37e4-4508-9ac4-852018870b62" name="Default Changelist" comment="" />
+      <created>1559778280141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559778280141</updated>
+      <workItem from="1559778293810" duration="350000" />
+      <workItem from="1559778659765" duration="4638000" />
+      <workItem from="1559784943625" duration="1950000" />
+      <workItem from="1559790689444" duration="977000" />
+      <workItem from="1559863347998" duration="1499000" />
+      <workItem from="1559871271068" duration="2530000" />
+      <workItem from="1559952131731" duration="543000" />
+      <workItem from="1567880819742" duration="990000" />
+      <workItem from="1575591658502" duration="305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

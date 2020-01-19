@@ -1,0 +1,6 @@
+framework module Pods_localhostUnitTests {
+  umbrella header "Pods-localhostUnitTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
