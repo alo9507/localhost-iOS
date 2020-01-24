@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/alo9507/ContactiOS/blob/master/Contact/localhost.png" alt="localhost logo">
+    <img src="https://github.com/alo9507/localhost-iOS/blob/master/localhost/localhost.png" alt="localhost logo">
 </p>
 
 <h1 align="center">
